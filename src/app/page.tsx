@@ -106,7 +106,7 @@ export default function LandingPage() {
                                 {/* Dashboard Image */}
                                 <div className="relative w-full max-w-[700px] rounded-lg overflow-hidden border shadow-lg my-6">
                                     <Image
-                                        src="/placeholder.svg?height=400&width=700"
+                                        src="/proof.png"
                                         alt="Twitter Growth Dashboard"
                                         width={700}
                                         height={400}
